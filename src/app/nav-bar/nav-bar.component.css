@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.nav-link{
+ font-family: Roboto;
+ font-size: 20px;
+}
+.navbar-brand{
+    font-weight: bold;
+    font-size: 30px;
+}
